@@ -1,0 +1,14 @@
+b1 : https://flutter.dev/docs/get-started/install/windows install new version
+b2 : extract file in any folder.
+b3 : search "env"-> Edit environment variables for your account. -> User variables.Then edit Path in "user variables" ->new "flutter\bin"
+b4 : in folder flutter. cmd-> flutter doctor 
+b5 : install install Adroid SDK. If not yet
+b6 : install Android studio. If not yet: android studio -> AVD manager -> run android emulator
+b7 : turn on android emulator or connect with android device.
+b8 : installing plugin Flutter và Dart.
+	open visual code.
+	choosen extension -> search "flutter" -> install.
+b9 : in folder contain which we wanna create project
+	Use terminal of VS_code point to that path:
+	flutter create name of app_app. EX: Name is chat ->flutter create chat_app.
+	To run: $ flutter run. 
